@@ -33,3 +33,61 @@ Without VS Code: `.\run.ps1`
 ## Scope
 
 Implements the seven supplied Figma screens (Meal Vouchers flow). Hotel Allocation and History are not in the supplied design and are not built. Before production: replace the development login and JWT key and connect real flight data.
+
+## Site Preview
+
+<img width="1512" height="762" alt="1 Login" src="https://github.com/user-attachments/assets/66a36042-c8d7-4b8b-9ee3-88408da29103" />
+<img width="1512" height="762" alt="Login" src="https://github.com/user-attachments/assets/9f0559f8-4e91-4723-baeb-4c687f0b5d61" />
+<img width="1512" height="762" alt="2 Login selection" src="https://github.com/user-attachments/assets/50b2ee44-c76a-4bd5-8a93-1d079372ade7" />
+<img width="1512" height="762" alt="3 danding view" src="https://github.com/user-attachments/assets/0b4626e7-2eb2-4b3b-a10b-bdddea97415b" />
+<img width="1512" height="762" alt="4 select flight" src="https://github.com/user-attachments/assets/ac6d7866-592f-49f1-ada7-1c399488715a" />
+<img width="1512" height="762" alt="5 add destails to selected flight" src="https://github.com/user-attachments/assets/b9b791d2-0f21-495a-bfdf-7ed3c071fed6" />
+<img width="1512" height="762" alt="6 multiple flights" src="https://github.com/user-attachments/assets/f2ed0327-7712-42f5-97d3-a985e7cf31a2" />
+<img width="1512" height="762" alt="7 details added" src="https://github.com/user-attachments/assets/c8474477-9f70-4755-a3bc-ee5f2ba10613" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
