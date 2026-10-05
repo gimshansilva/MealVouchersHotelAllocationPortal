@@ -48,3 +48,37 @@ The development login `pramodi` is an Admin. Try every endpoint from VS Code wit
 ## Scope
 
 Implements the seven supplied Figma screens (Meal Vouchers flow). Hotel Allocation and History are not in the supplied design and are not built. Before production: replace the development login and JWT key and connect real flight data.
+
+## Site Preview
+<img width="1512" height="762" alt="1 Login" src="https://github.com/user-attachments/assets/68f24c78-436c-471c-8fd4-1f9512e49ac9" />
+<img width="1512" height="762" alt="2 Login selection" src="https://github.com/user-attachments/assets/afbf2304-88d3-487f-8331-412adb398065" />
+<img width="1512" height="762" alt="3 danding view" src="https://github.com/user-attachments/assets/050cd90a-1e40-4bc0-8a67-1a206428633d" />
+<img width="1512" height="762" alt="4 select flight" src="https://github.com/user-attachments/assets/57986bf2-521b-4b2c-b08d-97095544408a" />
+<img width="1512" height="762" alt="5 add destails to selected flight" src="https://github.com/user-attachments/assets/75169ca9-99d4-42f2-9f06-edfd63ffbfa7" />
+<img width="1512" height="762" alt="6 multiple flights" src="https://github.com/user-attachments/assets/2863d3e8-f8ec-40a5-b70f-420ac48cc5cf" />
+<img width="1512" height="762" alt="7 details added" src="https://github.com/user-attachments/assets/1eeea655-f2ce-44de-b01d-b3c63e581d87" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
